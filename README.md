@@ -2,9 +2,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/gabrieldarezzo/spotify-player/badge.svg)](https://coveralls.io/github/gabrieldarezzo/spotify-player)
 
 
-# Spotify Wrapper Player
+# CicloSp, Web page to help cyclist find nearby cycle track
 
-![Spotify Wrapper Player Screenshot](docs/demo.png)
+![CicloSp Map Screenshot](docs/demo.png)
 
 ## Browser Support
 
