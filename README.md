@@ -2,12 +2,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/gabrieldarezzo/spotify-player/badge.svg)](https://coveralls.io/github/gabrieldarezzo/spotify-player)
 
 
-
 # Spotify Wrapper Player
 
-![Spotify Wrapper Player Screenshot](example/screenshot.png)
-
-> This application uses [spotify-wrapper](https://github.com/willianjusten/spotify-wrapper) library to get informations and musics from Spotify. It was created on my [JS TDD course](https://willianjusten.com.br/cursos/) just for study purposes.
+![Spotify Wrapper Player Screenshot](docs/demo.png)
 
 ## Browser Support
 
@@ -19,17 +16,12 @@ This Application relies on [Fetch API](https://fetch.spec.whatwg.org/). And this
 
 ## How to Run
 
-1. First go to [Spotify Developers API](https://developer.spotify.com/web-api/) and create your Token. Then add your token on [src/spotify.js](src/Spotify.js). **Remember that the token will expire in 60min**
-2. Install the dependencies with `npm i`.
-3. Run your application with `npm start`.
+1. Install the dependencies with `npm i`.
+2. Run your application with `npm start`.
 
 ## Something in the future?
+- [ ] Show all input/output of bicycle path 'Rio Pinheiros/Tietê' in GoogleMaps
 
-- [ ] Create authentication method to get Token
-- [ ] Show similar artists
-- [ ] Create player buttons (prev, pause/play, pause)
-- [ ] Show music timeline
-- [ ] Be creative =D
 
 ## Contributing
 
@@ -37,7 +29,7 @@ Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduc
 
 ## Versioning
 
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/gabrieldarezzo/spotify-player/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/gabrieldarezzo/ciclosp/tags).
 
 ## Authors
 
